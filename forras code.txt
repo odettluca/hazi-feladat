@@ -1,0 +1,21 @@
+<table class="wikitable">
+<tbody><tr>
+<th><a rel="nofollow" class="external text" href="http://tools.ietf.org/html/rfc1918">RFC1918</a></th>
+<th>IP címtartomány</th>
+<th>egyedi címek száma
+</th></tr>
+<tr>
+<td>24-bit block</td>
+<td>10.0.0.0 – 10.255.255.255</td>
+<td style="text-align:right;">16&nbsp;777&nbsp;216
+</td></tr>
+<tr>
+<td>20-bit block</td>
+<td>172.16.0.0 – 172.31.255.255</td>
+<td style="text-align:right;">1&nbsp;048&nbsp;576
+</td></tr>
+<tr>
+<td>16-bit block</td>
+<td>192.168.0.0 – 192.168.255.255</td>
+<td style="text-align:right;">65&nbsp;536
+</td></tr></tbody></table>
